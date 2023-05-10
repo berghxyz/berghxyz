@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-![Bergh's GitHub stats](https://github-readme-stats.vercel.app/api?username=berghxyz&theme=transparent )
+
 
 <!--
 **berghxyz/berghxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Bergh's GitHub stats](https://github-readme-stats.vercel.app/api?username=berghxyz&theme=transparent )
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
